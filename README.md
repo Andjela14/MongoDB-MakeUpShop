@@ -2,5 +2,5 @@
 
 | Backend       | FrontEnd      |               |               |               |    
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| .Net          | jQuery        | Bootstrap     |   CSS         | JavaScript    |
+| Spring        | jQuery        | Bootstrap     |   CSS         | JavaScript    |
 
